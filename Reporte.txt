@@ -1,0 +1,7 @@
+En el siguiente enlace se muestra el código fuente del reporte realizado del proyecto de integración.
+https://www.overleaf.com/read/yrwsxkhmjpgc
+
+Dicho reporte es desarrollado por medio de latex en la plataforma de Over Leaf. 
+Hasta el día de hoy 18 de Octubre de 2021 sigue siendo un borrador, ya que contiene en algunas secciones texto aleatorio simplemente para dar formato a las respectivas secciones. 
+
+Alejandro Salinas Victorino. 
