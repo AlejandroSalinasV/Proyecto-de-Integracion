@@ -14,7 +14,7 @@
   POTENCIOMETROS DIGITALES: 9XC103
                  
   22 / junio / 2021
-  
+  ALEJANDRO SALINAS VICTORINO
 *****************************************************/
 
 
